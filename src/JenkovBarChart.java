@@ -92,6 +92,7 @@ public class JenkovBarChart extends Application {
                                     System.out.println(aString[0] + " Volt");
                                     System.out.println("nach reverts");
                                     System.out.println("nach reverts2");
+                                    System.out.printf("nach reverts3");
                                 }
                             }
                         }
