@@ -94,7 +94,7 @@ public class JenkovBarChart extends Application {
                                     System.out.println("nach reverts2");
                                     System.out.printf("nach reverts3");
                                     System.out.printf("nach reverts 4");
-                                    System.out.printf("nach reverts 5");
+                                    System.out.printf("nach reverts 55");
                                 }
                             }
                         }
